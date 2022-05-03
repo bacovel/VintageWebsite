@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Mono:wght@500&display=swap');
+
+
+/*-----------------------NAVBAR-----------------*/
+
+.navbar .logo{
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 5%;
+    
+    font-family: 'Lobster', cursive;
+}
+.navbar a{
+    text-decoration: none;
+    margin: 1%;
+    padding: 15px;
+    background-color: #e6d4c5;
+    color: black;
+    border-radius:50px;
+    float: right;
+    display: inline-flex;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
